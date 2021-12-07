@@ -83,17 +83,21 @@
 
 <br><br>
 
+<h2 align="center" > Awards </h2>
+
 <div align="center">
     <img    src="https://i1.wp.com/www.thetrentonline.com/wp-content/uploads/2019/12/Lionel-Messi-Ballon-dOr-2019.jpg?fit=700%2C367&ssl=1"
             title="Messi"
             width="50%"
             height="50%" 
             />
+    <br>
         <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
   Lionel messi not only has many team awards but many individual. He has the most ballon d'ors, the best player award, with 7. Also, he has 5 golden boots wich means he made the most goals in a seoson. ON top of that he has the Fifa player of the year in 2014. In tems he has 4 champion leagues, a Copa America,... THesee are some of many awards, making him a one of the most decorated futbal players ever.
 <p/>
 </div>
-
+<br>
+<h2 align="center" > Rivalry </h2>
 <div align="center">
     <img    src="https://tse2.mm.bing.net/th?id=OIP.40H00u0LHdMU071Ej2ZPCwHaEy&pid=Api&P=0&w=271&h=175"
             title="Messi"
