@@ -20,7 +20,7 @@
 
 <div align="center">
     <img    src="https://www.si.com/.image/t_share/MTY4MTU2NjkyNzE3MDUzMjAx/young-lionel-messipng.png"
-            title="Pestily"
+            title="Messi"
             width="50%"
             height="50%" 
             />
@@ -40,27 +40,35 @@
     </tr>
     <tr>
         <th>Birthday</th>
-        <td>7th November</td>
+        <td>24th June</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>Argentinian</td>
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td>@https://www.instagram.com/leomessi/</td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@pestily</td>
+        <td>@WeAreMessi</td>
     </tr>
     <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
+        <th>Facebook</th>
+        <td>@https://www.facebook.com/leomessi/</td>
     </tr>
     <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <th>Team</th>
+        <td>PSG</td>
+    </tr>
+     <tr>
+        <th>Years playing</th>
+        <td>18</td>
+    </tr>
+    <tr>
+        <th></th>
+        <td></td>
     </tr>
 </table>
 
