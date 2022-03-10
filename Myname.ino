@@ -5,7 +5,6 @@ int d = 5;
 int e = 6;
 int f = 7;
 int g = 8;
-int h = 9;
 int decimal = 10;
 
 void setup()
@@ -17,7 +16,6 @@ void setup()
   pinMode (e, OUTPUT);
   pinMode (f, OUTPUT);  
   pinMode (g, OUTPUT);
-  pinMode (h, OUTPUT);
   pinMode (decimal, OUTPUT);
 }
 void loop()
@@ -29,7 +27,6 @@ void loop()
   digitalWrite (e, HIGH);
   digitalWrite (f, LOW);
   digitalWrite (g, HIGH);
-  digitalWrite (h, HIGH);
   digitalWrite (decimal, LOW);
 
   delay(1000);
@@ -41,7 +38,6 @@ void loop()
   digitalWrite (e, LOW);
   digitalWrite (f, LOW);
   digitalWrite (g, LOW);
-  digitalWrite (h, LOW);
   digitalWrite (decimal, LOW);
 
   delay(1000);
@@ -53,7 +49,6 @@ void loop()
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, HIGH);
- digitalWrite (h, LOW);
  digitalWrite (decimal, HIGH);
 
  delay(1000);
@@ -65,7 +60,6 @@ void loop()
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, HIGH);
- digitalWrite (h, LOW);
  digitalWrite (decimal, LOW);
 
 delay(1000);
@@ -77,7 +71,6 @@ digitalWrite (a, LOW);
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, LOW);
- digitalWrite (h, LOW);
  digitalWrite (decimal, LOW);
 
  delay(1000);
@@ -89,7 +82,6 @@ digitalWrite (a, LOW);
  digitalWrite (e, LOW);
  digitalWrite (f, HIGH);
  digitalWrite (g, LOW);
- digitalWrite (h, LOW);
  digitalWrite (decimal, HIGH);
 
  delay(1000);
@@ -101,7 +93,6 @@ digitalWrite (a, LOW);
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, LOW);
- digitalWrite (h, LOW);
  digitalWrite (decimal, LOW);
 
  delay(1000);
@@ -113,7 +104,6 @@ digitalWrite (a, LOW);
   digitalWrite (e, HIGH);
   digitalWrite (f, LOW);
   digitalWrite (g, HIGH);
-  digitalWrite (h, HIGH);
   digitalWrite (decimal, LOW);
 
   delay(1000);
@@ -125,7 +115,6 @@ digitalWrite (a, LOW);
   digitalWrite (e, LOW);
   digitalWrite (f, LOW);
   digitalWrite (g, LOW);
-  digitalWrite (h, LOW);
   digitalWrite (decimal, LOW);
 
   delay(1000);
@@ -137,7 +126,6 @@ digitalWrite (a, LOW);
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, LOW);
- digitalWrite (h, LOW);
  digitalWrite (decimal, HIGH);
 
  delay(1000);
@@ -149,7 +137,6 @@ digitalWrite (a, LOW);
  digitalWrite (e, LOW);
  digitalWrite (f, LOW);
  digitalWrite (g, HIGH);
- digitalWrite (h, LOW);
  digitalWrite (decimal, HIGH);
 
  delay(1000);
@@ -161,19 +148,19 @@ digitalWrite (a, LOW);
   digitalWrite (e, HIGH);
   digitalWrite (f, LOW);
   digitalWrite (g, LOW);
-  digitalWrite (h, LOW);
+
   digitalWrite (decimal, LOW);
 
   delay(1000);
 
-   digitalWrite (a, HIGH);
-  digitalWrite (b, LOW);
-  digitalWrite (c, LOW);
+   digitalWrite(a, HIGH);
+  digitalWrite (b, HIGH);
+  digitalWrite (c, HIGH);
   digitalWrite (d, HIGH);
   digitalWrite (e, HIGH);
-  digitalWrite (f, LOW);
-  digitalWrite (g, LOW);
-  digitalWrite (h, HIGH);
+  digitalWrite (f, HIGH);
+  digitalWrite (g, HIGH);
+
   digitalWrite (decimal, LOW);
 
   delay(1000);
