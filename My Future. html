@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>My Future</title>
-        <style>
-            body {
-                background-image: linear-gradient(rgb(186, 199, 207), #2c3e50);
-                font-family: 'Trebuchet MS', sans-serif
-            }
